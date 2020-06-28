@@ -1,1 +1,1 @@
-#Gatsby starter with scss
+# Gatsby starter with scss
